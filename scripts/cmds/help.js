@@ -22,7 +22,7 @@ module.exports = {
     if (args.length === 0) {
       const categories = {};
       let msg = `╭━━━━━━━━━━━━━━━━━╮\n` +
-                `      👽𝗠𝗮𝗹𝘃𝗶𝗻𝗮👽      \n` +
+                `      👽𝐃𝐢𝐝𝐚𝐫👽      \n` +
                 `╰━━━━━━━━━━━━━━━━━╯\n\n`;
 
       for (const [name, value] of commands) {
